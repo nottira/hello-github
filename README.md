@@ -1,2 +1,3 @@
-# hello-github
-My first GitHub repo
+# Updated README
+README
+Created by Tira
